@@ -1,0 +1,1 @@
+SIZE_WINDOW = "500x500"
